@@ -5,12 +5,16 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "^5.0.1"
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.13.7",
+    "@mui/material": "^5.13.7",
+    "react": "*",
+    "react-dom": "*",
+    "react-scripts": "*"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "typescript": "*"
   },
   "scripts": {
     "start": "react-scripts start",
